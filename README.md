@@ -8,7 +8,6 @@
 
 - Hongbao.scala
 - [README.md](http://README.md)
-- [香山分支预测学习报告.md](http://xn--vjqt2g05b75ldlblzt6nesoujy5gbjc.md)
 - 香山分支预测学习报告.pdf
 
 # 阅读说明
