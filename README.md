@@ -9,8 +9,16 @@
 - Hongbao.scala
 - [README.md](http://README.md)
 - 香山分支预测学习报告.pdf
+- 周鹏宇+香山CPU中的BPU部件学习报告.pptx
+- 2021CCFCCF中国软件大会-云际计算技术论坛部分会议摘要及感想.pdf
 
 # 阅读说明
+
+2022.1.1日12:05更新：
+
+- 新增了面向对象设计原则和设计模式相关的内容，并最终完成报告。
+- PDF更新，但依然没有解决代码块损失和图片注释损失问题，因此依然**强烈建议您直接在Notion网页或app上观看**
+- https://outgoing-sleet-cb4.notion.site/XiangShan-875f60e6b46544a39f7d642a377ff239
 
 11.24日4:10更新：
 
